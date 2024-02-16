@@ -1,4 +1,11 @@
 [
-  "Bu bir duyurudur.",
-  "Bu da bir diğer duyurudur."
+    {
+        "announcement": "Duyuru 1"
+    },
+    {
+        "announcement": "Duyuru 2"
+    },
+    {
+        "announcement": "Duyuru 3"
+    }
 ]
