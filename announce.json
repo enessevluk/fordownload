@@ -1,11 +1,5 @@
 [
-    {
-        "announcement": "Duyuru 1"
-    },
-    {
-        "announcement": "Duyuru 2"
-    },
-    {
-        "announcement": "Duyuru 3"
-    }
+    "Duyuru 1: Yeni güncelleme yayınlandı.",
+    "Duyuru 2: Etkinlik hatırlatması - Yarın piknik günü!",
+    "Duyuru 3: Gelecek hafta perşembe günü iş yemeği olacak."
 ]
