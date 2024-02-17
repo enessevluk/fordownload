@@ -1,5 +1,6 @@
-[
-    "- New Loot Area Added.",
-    "- Fix All Plugins.",
-    "- Sound effects will be added in the future."
-]
+{
+  "announcements":[
+    "- Duyuru 1",
+    "- Duyuru 2"
+  ]
+}
