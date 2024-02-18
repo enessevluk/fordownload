@@ -1,4 +1,6 @@
-[
-  "https://www.dropbox.com/scl/fi/64nzzpsv3q5f5m9knykrf/myasset.unity3d?rlkey=e5yvtt99rgyyi39re7pnei1bv&dl=1",
-  "https://www.dropbox.com/scl/fi/v8svsn9sxncfee7nxop44/ClientSideAssets.txt?rlkey=epb7xqm1d5p0jlsk4f4vbgl00&dl=1"
-]
+{
+    "files": [
+        "https://www.dropbox.com/scl/fi/64nzzpsv3q5f5m9knykrf/myasset.unity3d?rlkey=e5yvtt99rgyyi39re7pnei1bv&dl=1",
+        "https://www.dropbox.com/scl/fi/v8svsn9sxncfee7nxop44/ClientSideAssets.txt?rlkey=epb7xqm1d5p0jlsk4f4vbgl00&dl=1"
+    ]
+}
