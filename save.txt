@@ -1,8 +1,7 @@
 {
   "items": [
     {
-      "url": "https://www.dropbox.com/scl/fi/64nzzpsv3q5f5m9knykrf/myasset.unity3d?rlkey=e5yvtt99rgyyi39re7pnei1bv&dl=1",
-      "fileName": "myasset.unity3d"
-    }    
+      "url": "https://www.dropbox.com/scl/fi/64nzzpsv3q5f5m9knykrf/myasset.unity3d?rlkey=e5yvtt99rgyyi39re7pnei1bv&dl=1"
+    }
   ]
 }
